@@ -1,2 +1,7 @@
 # Helloworld
-My first Git repository for learning purposes
+
+Hi Guys!
+
+Gbolly here, I am new to Github and will appreciate any assistance in my automation learning experience.
+
+
